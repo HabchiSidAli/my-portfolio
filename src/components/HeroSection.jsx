@@ -16,7 +16,7 @@ function HeroSection({ contactScrollCallback }) {
                     <div className="self-stretch flex-col justify-start items-start gap-4 flex">
                         <div className="self-stretch text-blue text-[32px] font-normal leading-[30px] font-outfit">Web developer</div>
                         <div className="self-stretch text-blue text-[54px] font-semibold leading-[64px] font-Outfit">I make your ideas come to life</div>
-                        <div className="self-stretch text-zinc-800 text-lg font-light font-Switzer leading-[27px]">I'm Sid Ali Habchi, a 27-year-old Front End Web Developer. As a proud Recoded alumni, I merge creativity with technical know-how to fashion seamless and visually striking user experiences. Fueled by a passion for innovation, I thrive on transforming concepts into tangible digital realities, positioning myself at the forefront of the evolving digital landscape.</div>
+                        <div className="self-stretch text-zinc-800 text-lg font-light font-Switzer leading-[27px]">I&apos;m Sid Ali Habchi, a 27-year-old Front End Web Developer. As a proud Recoded alumni, I merge creativity with technical know-how to fashion seamless and visually striking user experiences. Fueled by a passion for innovation, I thrive on transforming concepts into tangible digital realities, positioning myself at the forefront of the evolving digital landscape.</div>
                     </div>
                 </Reveal>
                 
