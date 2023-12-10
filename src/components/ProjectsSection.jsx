@@ -9,7 +9,7 @@ function ProjectsSection({ projectsRefProps }) {
   return (
     <div ref={projectsRefProps} className='w-full py-12 px-5 sm:px-20 lg:px-28 font-Outfit'>
         <Reveal>
-        <h1 className='text-4xl mb-10 text-blue font-semibold'>What I've worked on so far</h1>
+        <h1 className='text-4xl mb-10 text-blue font-semibold'>What I&apos;ve worked on so far</h1>
         </Reveal>
         <div className='flex flex-col gap-16 mx-2'>
             <Reveal>
@@ -26,7 +26,7 @@ function ProjectsSection({ projectsRefProps }) {
                     <div className="flex flex-col justify-around gap-3">
                         <div>
                             <h1 className='font-semibold text-[32px] mb-2 2xl:mb-5'>Inner Space</h1>
-                            <p className='text-lg font-Switzer'>Inner Space serves as the culminating project for my graduation from Re:Coded's front-end web development bootcamp, during which I had the opportunity to lead a team of five developers for a brief period. This therapy website allows users to register accounts, schedule appointments with therapists, and engage in chat sessions. My primary focus was on developing the chat feature, in addition to contributing to the creation of various pages on the platform.
+                            <p className='text-lg font-Switzer'>Inner Space serves as the culminating project for my graduation from Re:Coded&apos;s front-end web development bootcamp, during which I had the opportunity to lead a team of five developers for a brief period. This therapy website allows users to register accounts, schedule appointments with therapists, and engage in chat sessions. My primary focus was on developing the chat feature, in addition to contributing to the creation of various pages on the platform.
                             </p>
                         </div>
                         <div className='flex justify-around'>
