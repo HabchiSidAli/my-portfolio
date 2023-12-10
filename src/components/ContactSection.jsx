@@ -37,7 +37,7 @@ function ContactSection({ contactRefProps }) {
         <div className='grid grid-cols-1 lg:grid-cols-2 gap-5'>
             <div className='flex flex-col justify-between'>
                 <Reveal>
-                    <p className='text-lg font-Switzer mb-3'>Whether you have an inquiry, a burning question, a tempting job offer, or just want to drop a friendly 'hi,' I'm all ears! Feel free to reach out through any of my social channels listed below, and if you prefer a more formal approach, you can use the convenient form to contact me. Your messages are always welcome, and I look forward to connecting with you soon!</p>
+                    <p className='text-lg font-Switzer mb-3'>Whether you have an inquiry, a burning question, a tempting job offer, or just want to drop a friendly &apos;hi,&apos; I&apos;m all ears! Feel free to reach out through any of my social channels listed below, and if you prefer a more formal approach, you can use the convenient form to contact me. Your messages are always welcome, and I look forward to connecting with you soon!</p>
                 </Reveal>
                 <Reveal>
                     <div className='flex gap-5 justify-center lg:justify-normal'>
