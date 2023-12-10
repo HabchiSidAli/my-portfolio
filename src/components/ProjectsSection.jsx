@@ -80,7 +80,7 @@ function ProjectsSection({ projectsRefProps }) {
                 <div className='grid grid-cols-1 xl:grid-cols-2 gap-5'>
                     <div className="relative overflow-hidden bg-cover bg-no-repeat rounded-md">
                         <Image
-                            src='/E-Buy.png'
+                            src='/E-BUY.png'
                             width={1000}
                             height={500}
                             alt='E-Buy'
